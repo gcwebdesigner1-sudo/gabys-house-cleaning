@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gcwebdesigner1-sudo.github.io/gabys-house-cleaning/sitemap.xml
+Sitemap: https://gabyshousecleaningllc.com/sitemap.xml
